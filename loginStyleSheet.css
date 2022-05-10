@@ -1,0 +1,46 @@
+html,
+body {
+  height: 100%;
+}
+
+body {
+  display: -ms-flexbox;
+  display: -webkit-box;
+  display: flex;
+  -ms-flex-align: center;
+  -ms-flex-pack: center;
+  -webkit-box-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  justify-content: center;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  background-color: #495371;
+}
+.card{
+	background-color: #7984a6;
+	border-radius: 50px 50px 50px 50px;
+	padding: 20px;
+	width: 250px;
+	height: 325px;
+	justify-content: center;
+	align-items: center;
+
+}
+p {
+  width: 16rem;
+  padding: 1px 0px;
+  margin: 0 0 0 0;
+  box-sizing: border-box;
+}
+.card .form-control{
+    position: relative;
+    box-sizing: border-box;
+    height: auto;
+    padding: 10px;
+    font-size: 16px;
+}
+.navbar-brand{
+	width: 16rem;
+	position:fixed;
+}

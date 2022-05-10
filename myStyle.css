@@ -1,0 +1,14 @@
+.gif{
+	 text-align: left;
+	 border: 3px solid green;
+}
+.background-colour-thing{
+	background-image: https://www.thedesignwork.com/wp-content/uploads/2011/10/Random-Pictures-of-Conceptual-and-Creative-Ideas-02.jpg;
+	backdrop-filter: blur(5px);
+}
+img{
+	border-radius: 50%;
+}
+body{
+	margin:auto;
+}
