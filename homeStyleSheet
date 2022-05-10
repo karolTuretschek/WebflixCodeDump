@@ -1,0 +1,8 @@
+html,
+body {
+  height: 100%;
+}
+
+.navbar-brand{
+margin: 10px 10px 10px 10px;
+}
